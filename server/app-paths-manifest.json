@@ -1,0 +1,10 @@
+{
+  "/calls/page": "app/calls/page.js",
+  "/chat/[id]/page": "app/chat/[id]/page.js",
+  "/contacts/page": "app/contacts/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/ongoing-call/[contactId]/[callType]/page": "app/ongoing-call/[contactId]/[callType]/page.js",
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/signup/page": "app/signup/page.js"
+}

@@ -1,0 +1,3 @@
+{
+  "/ongoing-call/[contactId]/[callType]/page": "app/ongoing-call/[contactId]/[callType]/page.js"
+}
