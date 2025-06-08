@@ -65,7 +65,7 @@ Follow these steps to set up and run the application on your local machine:
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/LeviLucena/<nome do repositório>.git
+git clone https://github.com/LeviLucena/conecta-ai.git
 cd <nome do repositório>
 ```
 2. **Install dependencies:** 
