@@ -75,14 +75,8 @@ npm install
     # or
     yarn install
 ```
-3. **Set up Firebase:**
 
-- Create a new project in the Firebase console (https://console.firebase.google.com/).
-- Enable the necessary services (Authentication, Firestore, etc.).
-- Get your Firebase configuration object.
-- Create a .env.local file in the root of the project and add your Firebase configuration as environment variables (refer to the application's code for expected variable names, e.g., NEXT_PUBLIC_FIREBASE_API_KEY).
-
-4. **Run the development server:**
+3. **Run the development server:**
 Start the Next.js development server:
 ```bash
 npm run dev
@@ -90,6 +84,13 @@ npm run dev
     yarn dev
 ```
 The application should now be running at http://localhost:3000.
+
+4. **Set up Firebase:**
+
+- Create a new project in the Firebase console (https://console.firebase.google.com/).
+- Enable the necessary services (Authentication, Firestore, etc.).
+- Get your Firebase configuration object.
+- Create a .env.local file in the root of the project and add your Firebase configuration as environment variables (refer to the application's code for expected variable names, e.g., NEXT_PUBLIC_FIREBASE_API_KEY).
 
 ## 🤝 Contributions
 Feel free to contribute, suggest improvements, or report issues to help develop this project.
